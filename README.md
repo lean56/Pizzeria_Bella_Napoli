@@ -1,16 +1,12 @@
-# myapp
+# Pizzeria Bella Napoli
 
-A new Flutter project.
+Crear la aplicacion de la pizzeria Bella Napoli
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+La pizzería Bella Napoli ofrece pizzas vegetarianas y no vegetarianas a sus clientes. Los ingredientes para cada tipo de pizza aparecen a continuación.
 
-A few resources to get you started if this is your first Flutter project:
+Ingredientes vegetarianos: Pimiento y tofu.
+Ingredientes no vegetarianos: Peperoni, Jamón y Salmón.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Escribir un programa que pregunte al usuario si quiere una pizza vegetariana o no, y en función de su respuesta le muestre un menú con los ingredientes disponibles para que elija. Solo se puede eligir un ingrediente además de la mozzarella y el tomate que están en todas la pizzas. Al final se debe mostrar por pantalla si la pizza elegida es vegetariana o no y todos los ingredientes que lleva.
